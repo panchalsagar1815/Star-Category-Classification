@@ -1,6 +1,6 @@
 # Star-Category-Classification
 
-Project Title: Star Category Classification
+
 
 The "Star Category Classification" project is a comprehensive machine learning endeavour designed to classify stars based on a range of features, including temperature, luminosity, radius, absolute magnitude, star type, star colour, and spectral class. The project's objective is to predict the spectral class of a star, which includes categories such as Red Dwarf, Brown Dwarf, White Dwarf, Main Sequence, SuperGiants, and HyperGiants.
 
